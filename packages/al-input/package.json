@@ -1,6 +1,6 @@
 {
 	"name": "@alvin/al-input",
-	"version": "0.0.3",
+	"version": "0.0.0",
 	"description": "",
 	"main": "dist/bundle.cjs.js",
 	"module": "dist/bundle.umd.js",
