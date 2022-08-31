@@ -13,7 +13,6 @@ export default {
 	name: 'AlInput',
 	methods: {
 		findParent() {
-			console.log('11111');
 			let parent = this.$parent;
 			let parentName = parent.$options.name;
 			while (parentName !== 'AlFormItem') {

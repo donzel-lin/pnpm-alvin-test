@@ -5,7 +5,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"build": "pnpm --filter=@alvin/* build:prod",
+		"build": "pnpm --filter=@alvin-lin/* build:prod",
 		"clear": "rimraf 'packages/*/{lib,node_modules,dist}' && rimraf node_modules",
 		"changeset": "changeset",
 		"version-packages": "changeset version",

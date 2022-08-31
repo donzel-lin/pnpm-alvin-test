@@ -1,5 +1,5 @@
 {
-	"name": "@alvin/al-input",
+	"name": "@alvin-lin/al-input",
 	"version": "0.0.0",
 	"description": "",
 	"main": "dist/bundle.cjs.js",
